@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vinay Gusain</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-gusain&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-gusain" /> </p>
 
-- 🌱 I’m currently learning **kubernetes, java,**
+- 🌱 I’m currently learning **kubernetes, java, react**
+
+- 🎯 Goals for 2021 :
+    - **Contribute more**
+    - Learn about **cloud computing, microservices, web3, web development**  
+    - **Connect** and work with people
+    - **Learn** and work on new technologies
 
 - 💬 I am interested in **cloud computing, devops, web3**
 
 - 📝 I regularly write articles on medium [@vinaygusain](https://medium.com/@vinaygusain)
 
-- 📫 My mail id **gusainvinay2003@gmail.com**
+- 📫 Mail me for any querries **gusainvinay2003@gmail.com**
 
-- I like **📚reading fiction, 🧠psychology, 💭philosophy, 🎵music, 💪fitness & sports**
+- 📋 I like **📚reading fiction, 🧠psychology, 💭philosophy, 🎵music, 💪fitness & sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
