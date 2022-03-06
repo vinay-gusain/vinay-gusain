@@ -7,7 +7,7 @@
 
 - 🎯 Goals for 2022 :
     - **Contribute more**
-    - Learn about **cloud computing, microservices, web3, web development**  
+    - Learn about **cloud computing, microservices, APIs, web3**  
     - **Connect** and work with people
     - **Learn** and work on new technologies
 
