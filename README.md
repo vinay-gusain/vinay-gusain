@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **kubernetes, java, react**
 
 - 🎯 Goals for 2022 :
-    - **Contribute more**
-    - Learn about **cloud computing, microservices, APIs, web3**  
+    - **Contribute more** 
     - **Connect** and work with people
     - **Learn** and work on new technologies
 
